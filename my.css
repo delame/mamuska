@@ -8,3 +8,10 @@ body {
   margin-right: auto;
   width: 50%;
 }
+
+p {
+	font-family:verdana;
+	color:white;
+	size: 14px;
+	text-align: center;
+}
